@@ -108,16 +108,11 @@ Les données géographiques pour la carte sont issues de **Natural Earth Data**,
 
 ## 7. Développeur et version
 
-- **Développeur** : [Votre nom]
+- **Développeur** : SINEAU Angel
 - **Version** : 1.0.0
-- **Date de dernière mise à jour** : [Date]
+- **Date de dernière mise à jour** : 27/04/2025
 - **Contexte académique** : Cette application a été développée dans le cadre d'un projet de Master 2 en Économétrie Appliquée à l'IAE de Nantes.
 
----
-
-## 8. Licence et droits
-
-Cette application est développée à des fins éducatives dans le cadre d'un projet de Master 2 en Économétrie Appliquée à l'IAE de Nantes. Les données sont fournies par la Banque Mondiale sous licence ouverte.
 ---
 
 *SINEAU Angel*
