@@ -1,0 +1,34 @@
+/* custom.css */
+
+/* Style du modal d'erreur */
+.modal-header.bg-danger {
+  background-color: #d9534f;
+  color: white;
+}
+
+/* Bouton de rechargement */
+#reload-app {
+  margin-left: 10px;
+}
+
+/* Style des notifications */
+.shiny-notification {
+  animation: fadeInDown 0.5s, fadeOut 0.5s 4.5s;
+}
+
+/* Style des tooltips */
+.tooltip-inner {
+  max-width: 300px;
+  padding: 10px;
+}
+
+/* Amélioration des cartes */
+.box {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+/* Animation au survol des boxes */
+.box:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
